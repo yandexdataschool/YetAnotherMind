@@ -13,8 +13,8 @@ title: Home
 
 - На некоторые модели существенное влияние оказывает порядок вариантов ответа. Каждый вопрос из выборки задавался дважды, где два были упорядочены разными способами: A/B и B/A. Если ответы на оба вопроса совпадают, ответ считается согласованным. На графике ниже приведена доля согласованных ответов модели.
 <div style="display: flex; gap: 16px;">
-  <img src="./images/clothes_alignment.jpg" alt="Clothes Alignment" style="width: 48%; max-width: 400px;">
-  <img src="./images/cars_alignment.jpg" alt="Cars Alignment" style="width: 48%; max-width: 400px;">
+  <img src="./images/clothes_alignment.png" alt="Clothes Alignment" style="width: 48%; max-width: 400px;">
+  <img src="./images/cars_alignment.png" alt="Cars Alignment" style="width: 48%; max-width: 400px;">
 </div>
 
 ## Результаты первичных экспериментов
